@@ -9,14 +9,14 @@ ___
 ## Herramientas que he ido utilizando en mis Proyectos
 
 ### **R**
-1. [Renta de Bicicletas](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
+
 ### **Python**
 
 ### **SQL**
 
 
 ## Mis Proyectos
-
+1. [Renta de Bicicletas](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
 
 ___
 
