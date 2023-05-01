@@ -9,6 +9,9 @@ ___
 ## Herramientas que he ido utilizando en mis Proyectos
 
 ### **R**
+- ggplot2
+- tidyverse
+- lubridate
 
 ### **Python**
 
