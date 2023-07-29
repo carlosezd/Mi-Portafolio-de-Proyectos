@@ -1,4 +1,4 @@
-# Mi Portafolio de Proyectos
+# Mi Portafolio de Proyectos de Datos
 Portafolio de Proyectos Personales de Carlos Zumaran, donde compilo proyectos sobre mi aprendizaje personal de diferentes temas como Análisis de Datos, Programación y Data Science.
 
 
@@ -14,8 +14,14 @@ ___
 - lubridate
 
 ### **Python**
+- Mathplotlib
+- Pandas
+- Scikitlearn
+- Seaborn
 
 ### **SQL**
+- MySQL
+- PostgresSQL
 
 
 ## Mis Proyectos
