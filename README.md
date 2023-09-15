@@ -25,8 +25,11 @@ ___
 
 
 ## Mis Proyectos
-1. [Renta de Bicicletas](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
-
+1. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
+2. [Web Scrappin de Página Web Librerias Crisol con Python](https://github.com/carlosezd/crisol_lib_webscrapping)
+3. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
+4. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI]((https://github.com/carlosezd/Pokemon_Onix_Data_Challenge/tree/master))
+5. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
 ___
 
 ## Análisis de Datos de Compañia de Renta de Bicicletas con R
