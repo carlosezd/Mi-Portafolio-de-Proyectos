@@ -3,7 +3,7 @@ Portafolio de Proyectos Personales de Carlos Zumaran, donde compilo proyectos so
 
 
 ## Sobre Mi
-Soy Ingeniero Industrial, tratando de hacer un pivot en mi carrera hacia una rama más tecnológica, tengo el objetivo de aterrizar en mi primer empleo en tecnología como analista de datos. Aprendiendo sobre programación y todo el proceso que conlleva realizar un ánalisis de datos desde la formulación de preguntas correctas hasta la forma de presentar los informes o dashboards a los interesados. 
+Soy Ingeniero Industrial, tratando de hacer un pivot en mi carrera hacia una rama más tecnológica y enfocada a los datos, tengo el objetivo de aterrizar en mi primer empleo en tecnología como analista de datos. Aprendiendo sobre programación y todo el proceso que conlleva realizar un ánalisis de datos desde la formulación de preguntas correctas hasta la forma de presentar los informes o dashboards a los interesados. 
 
 ___
 ## Herramientas que he ido utilizando en mis Proyectos
