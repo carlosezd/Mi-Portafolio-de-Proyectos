@@ -23,6 +23,10 @@ ___
 - MySQL
 - PostgresSQL
 
+### **Power BI**
+- DAX
+- DAXStudio
+
 
 ## Mis Proyectos
 1. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
@@ -30,5 +34,6 @@ ___
 3. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
 4. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
 5. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
+6. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
 
 
