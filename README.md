@@ -35,5 +35,6 @@ ___
 4. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
 5. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
 6. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
+7. [Regresión Lineal Simple](https://github.com/carlosezd/SimpleLinearRegression_Seguros)
 
 
