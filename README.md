@@ -7,6 +7,10 @@ Soy Ingeniero Industrial, haciendo pivot en mi carrera hacia una rama más tecno
 
 ___
 ## Herramientas que he ido utilizando en mis Proyectos
+### **Excel**
+- Pivot Tables
+- Power Query
+- Visual Basic
 
 ### **R**
 - ggplot2
@@ -29,12 +33,13 @@ ___
 
 
 ## Mis Proyectos
-1. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
-2. [Web Scrappin de Página Web Librerias Crisol con Python](https://github.com/carlosezd/crisol_lib_webscrapping)
-3. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
-4. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
-5. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
-6. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
-7. [Regresión Lineal Simple](https://github.com/carlosezd/SimpleLinearRegression_Seguros)
-8. [Regresion Lineal Simple, Multiple y Polinomial - Boston Housing Dataset](https://github.com/carlosezd/LinearRegression_BostonHousingDataset)
+1. [Excel - Dashboard Data Jobs Salary](https://github.com/carlosezd/Excel-DataScience-Salary-Dashboard)
+2. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
+3. [Web Scrappin de Página Web Librerias Crisol con Python](https://github.com/carlosezd/crisol_lib_webscrapping)
+4. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
+5. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
+6. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
+7. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
+8. [Regresión Lineal Simple](https://github.com/carlosezd/SimpleLinearRegression_Seguros)
+9. [Regresion Lineal Simple, Multiple y Polinomial - Boston Housing Dataset](https://github.com/carlosezd/LinearRegression_BostonHousingDataset)
 
