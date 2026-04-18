@@ -34,12 +34,13 @@ ___
 
 ## Mis Proyectos
 1. [Excel - Dashboard Data Jobs Salary](https://github.com/carlosezd/Excel-DataScience-Salary-Dashboard)
-2. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
-3. [Web Scrappin de Página Web Librerias Crisol con Python](https://github.com/carlosezd/crisol_lib_webscrapping)
-4. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
-5. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
-6. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
-7. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
-8. [Regresión Lineal Simple](https://github.com/carlosezd/SimpleLinearRegression_Seguros)
-9. [Regresion Lineal Simple, Multiple y Polinomial - Boston Housing Dataset](https://github.com/carlosezd/LinearRegression_BostonHousingDataset)
+2. [Excel - Salary Data Analysis](https://github.com/carlosezd/Excel-Salary-Data-Analysis)
+3. [Análisis de Renta de Bicicletas con R](https://github.com/carlosezd/Renta-de-Bicicletas-utilizando-R)
+4. [Web Scrappin de Página Web Librerias Crisol con Python](https://github.com/carlosezd/crisol_lib_webscrapping)
+5. [Análisis de la Economía Naranja en Latam con R](https://github.com/carlosezd/mi_curso_fundamentos_r/tree/master)
+6. [Reto Pokemon Onix Data Challenge - Dashboard en Power BI](https://github.com/carlosezd/Pokemon_Onix_Data_Challenge)
+7. [Reto HBO Data Engineer Latam - Dashboard en Power BI](https://github.com/carlosezd/HBO_Challenge_Dashboard)
+8. [Power-BI-Data-Analysis---SuperStore-Dataset](https://github.com/carlosezd/Power-BI-Data-Analysis---SuperStore-Dataset)
+9. [Regresión Lineal Simple](https://github.com/carlosezd/SimpleLinearRegression_Seguros)
+10. [Regresion Lineal Simple, Multiple y Polinomial - Boston Housing Dataset](https://github.com/carlosezd/LinearRegression_BostonHousingDataset)
 
