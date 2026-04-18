@@ -10,6 +10,7 @@ ___
 ### **Excel**
 - Pivot Tables
 - Power Query
+- Power Pivot
 - Visual Basic
 
 ### **R**
